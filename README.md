@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,50:7b61ff,100:ff0080&height=190&section=header&text=Shailen%20Chhetri&fontColor=ffffff&fontSize=46&fontAlignY=36&desc=Indie%20Developer%20%C2%B7%20Apps%20and%20Games&descAlignY=58&descSize=18" alt="Shailen Chhetri" width="100%" />
+<img src="assets/banner.png" alt="Shailen Chhetri: indie developer making apps and games" width="100%" />
 
 **Solo software engineer** building mobile apps and games, published under the name [S-Indie LabS](https://sindielabs.dev).
 Based in Nepal 🇳🇵
 
-[![Website](https://img.shields.io/badge/sindielabs.dev-00f0ff?style=for-the-badge&logo=safari&logoColor=black)](https://sindielabs.dev)
-[![Email](https://img.shields.io/badge/hello@sindielabs.dev-ff0080?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:hello@sindielabs.dev)
+[![Website](https://img.shields.io/badge/sindielabs.dev-0F7C7A?style=for-the-badge&logo=safari&logoColor=white)](https://sindielabs.dev)
+[![Email](https://img.shields.io/badge/hello@sindielabs.dev-C8411E?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:hello@sindielabs.dev)
 
 </div>
 
----
+<p align="center"><img src="assets/divider.svg" alt="" width="60%" /></p>
 
 ## 🚀 What I'm building
 
@@ -28,7 +28,7 @@ A focus timer where your hero delves while you work. Finish the run to defeat th
 - Daily quests, statistics and a camp shop
 - **Stack:** Godot 4, GDScript, Android first
 
----
+<p align="center"><img src="assets/divider.svg" alt="" width="60%" /></p>
 
 ## 🎮 Games
 
@@ -39,30 +39,29 @@ A focus timer where your hero delves while you work. Finish the run to defeat th
 | 🏢 **Shift Floor** | 2.5D survival party game | Godot 4 |
 | 🌑 **Dormant Line** · ⏳ **Six Hours Ahead** | 3D games, currently in development | Godot |
 
----
+<p align="center"><img src="assets/divider.svg" alt="" width="60%" /></p>
 
 ## 🛠️ Tech stack
 
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
-![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD_Pipelines-4B32C3?style=flat-square&logo=githubactions&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-2B1B17?style=flat-square&logo=react&logoColor=FFC93C)
+![Expo](https://img.shields.io/badge/Expo-2B1B17?style=flat-square&logo=expo&logoColor=FFC93C)
+![TypeScript](https://img.shields.io/badge/TypeScript-2B1B17?style=flat-square&logo=typescript&logoColor=FFC93C)
+![JavaScript](https://img.shields.io/badge/JavaScript-2B1B17?style=flat-square&logo=javascript&logoColor=FFC93C)
+![Node.js](https://img.shields.io/badge/Node.js-2B1B17?style=flat-square&logo=nodedotjs&logoColor=FFC93C)
+![Supabase](https://img.shields.io/badge/Supabase-2B1B17?style=flat-square&logo=supabase&logoColor=FFC93C)
+![Firebase](https://img.shields.io/badge/Firebase-2B1B17?style=flat-square&logo=firebase&logoColor=FFC93C)
+![Godot](https://img.shields.io/badge/Godot-2B1B17?style=flat-square&logo=godotengine&logoColor=FFC93C)
+![Capacitor](https://img.shields.io/badge/Capacitor-2B1B17?style=flat-square&logo=capacitor&logoColor=FFC93C)
+![Vite](https://img.shields.io/badge/Vite-2B1B17?style=flat-square&logo=vite&logoColor=FFC93C)
+![CI/CD](https://img.shields.io/badge/CI%2FCD_Pipelines-2B1B17?style=flat-square&logo=githubactions&logoColor=FFC93C)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2B1B17?style=flat-square&logo=githubactions&logoColor=FFC93C)
 
----
+<p align="center"><img src="assets/divider.svg" alt="" width="60%" /></p>
 
 <div align="center">
 
 ### 📬 Let's talk
 Building something, or want to work together? **[hello@sindielabs.dev](mailto:hello@sindielabs.dev)**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0080,50:7b61ff,100:00f0ff&height=100&section=footer" width="100%" alt="" />
 
 </div>
