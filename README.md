@@ -32,6 +32,6 @@ Based in Nepal 🇳🇵
 
 <div align="center">
 
-📬 **[hello@sindielabs.dev](mailto:hello@sindielabs.dev)**
+📬 **[liahschhetri2@gmail.com](mailto:liahschhetri2@gmail.com)**
 
 </div>
