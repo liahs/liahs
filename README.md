@@ -34,8 +34,8 @@ A focus timer where your hero delves while you work. Finish the run to defeat th
 
 | Game | What it is | Tech |
 | :-- | :-- | :-- |
-| ⚡ **CyberFlap** | Neon cyberpunk arcade runner: fly an anti-gravity craft through laser barriers and drones, with global leaderboards | React, TypeScript, Capacitor, Firebase |
-| 🌀 **Gravity Shift: Cyber Protocol** | Precision gravity-inversion puzzle platformer where fair, deterministic challenge beats reflex | Godot 4, GDScript |
+| ⚡ **[CyberFlap](https://play.google.com/store/apps/details?id=com.cyberflap.arcade)** | Neon cyberpunk arcade runner: fly an anti-gravity craft through laser barriers and drones, with global leaderboards | React, TypeScript, Capacitor, Firebase |
+| 🌀 **[Gravity Shift: Cyber Protocol](https://sindielabs.dev/#gravityshift)** | Precision gravity-inversion puzzle platformer where fair, deterministic challenge beats reflex | Godot 4, GDScript |
 | 🏢 **Shift Floor** | 2.5D survival party game | Godot 4 |
 | 🌑 **Dormant Line** · ⏳ **Six Hours Ahead** | 3D games, currently in development | Godot |
 
