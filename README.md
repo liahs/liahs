@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,50:7b61ff,100:ff0080&height=190&section=header&text=Shailen%20Chhetri&fontColor=ffffff&fontSize=46&fontAlignY=36&desc=Indie%20Developer%20%C2%B7%20Apps%20%26%20Games&descAlignY=58&descSize=18" alt="Shailen Chhetri" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,50:7b61ff,100:ff0080&height=190&section=header&text=Shailen%20Chhetri&fontColor=ffffff&fontSize=46&fontAlignY=36&desc=Indie%20Developer%20%C2%B7%20Apps%20and%20Games&descAlignY=58&descSize=18" alt="Shailen Chhetri" width="100%" />
 
 **Solo software engineer** building mobile apps and games, published under the name [S-Indie LabS](https://sindielabs.dev).
 Based in Nepal 🇳🇵
