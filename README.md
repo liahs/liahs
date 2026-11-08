@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,50:7b61ff,100:ff0080&height=190&section=header&text=Shailen%20Chhetri&fontColor=ffffff&fontSize=46&fontAlignY=36&desc=React%20Native%20%C2%B7%20Node.js%20%C2%B7%20Indie%20Games&descAlignY=58&descSize=18" alt="Shailen Chhetri" width="100%" />
 
-**Software engineer & founder of [S-Indie LabS](https://sindielabs.dev)**, an indie studio making mobile apps and games.
+**Solo software engineer** building mobile apps and games, published under the name [S-Indie LabS](https://sindielabs.dev).
 Based in Nepal 🇳🇵
 
 [![Website](https://img.shields.io/badge/sindielabs.dev-00f0ff?style=for-the-badge&logo=safari&logoColor=black)](https://sindielabs.dev)
