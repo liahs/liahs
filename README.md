@@ -58,17 +58,6 @@ A focus timer where your hero delves while you work. Finish the run to defeat th
 
 ---
 
-## 📊 GitHub stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=liahs&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=liahs&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
-</div>
-
----
-
 <div align="center">
 
 ### 📬 Let's talk
