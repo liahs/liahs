@@ -53,6 +53,8 @@ A focus timer where your hero delves while you work. Finish the run to defeat th
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
 ![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD_Pipelines-4B32C3?style=flat-square&logo=githubactions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ---
 
@@ -60,8 +62,8 @@ A focus timer where your hero delves while you work. Finish the run to defeat th
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=liahs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liahs&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=liahs&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=liahs&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
 </div>
 
